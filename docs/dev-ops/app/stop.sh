@@ -1,0 +1,1 @@
+docker stop my-study-ai-agentstation
